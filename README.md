@@ -33,7 +33,7 @@ The Personalized Travel Itinerary Generator is a web application designed to cre
 
 4. **Run the Application**:
     ```bash
-    streamlit run your_script_name.py
+    streamlit run travel_itinerary_app.py
     ```
 
 ## Usage
