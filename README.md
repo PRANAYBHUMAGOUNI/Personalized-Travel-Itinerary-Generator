@@ -48,6 +48,9 @@ The Personalized Travel Itinerary Generator is a web application designed to cre
 3. Click "Generate Itinerary" to create your personalized travel plan.
 4. The application will display a detailed itinerary based on your inputs.
 
+   ![image](https://github.com/user-attachments/assets/8fc3b5c6-8020-430b-b301-afe1911b02ba)
+
+
 ## Development Approach
 
 - **User-Friendly Interface**: Streamlit was chosen for its simplicity and ease of use in creating web applications.
